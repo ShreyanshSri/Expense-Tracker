@@ -10,7 +10,7 @@
   <li><b>Expense Recording:</b> Users can input details of their expenses amount and description.</li>
   <li><b>Income Tracking:</b> Provide the ability to record sources of income, such as salaries or additional earnings.</li>
   <li><b>Expense History:</b> Maintain a history of past transactions for reference and review.</li>
-  <li><b>Balance Records</b> Maintain a record of all the transactions and also show available balance.</li>
+  <li><b>Balance Records:</b> Maintain a record of all the transactions and also show available balance.</li>
 </ul>
 
 <h3>Tech Stack</h3>
